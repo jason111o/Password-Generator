@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jason\'s Password Generator</string>
+    <string name="generate_button">Generate</string>
+    <string name="textView_text">Password will display here for copy and paste</string>
+    <string name="button_text_place_holder">Button</string>
+    <string name="enter_password_length_here">Enter password length here</string>
+    <string name="hint_10">Hint: 10</string>
+    <string name="includeSymbols">Include Symbols</string>
+    <string name="scoreTextView">Rating and Score</string>
+    <string name="ratings">ratings</string>
+</resources>
